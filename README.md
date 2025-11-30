@@ -1,5 +1,2 @@
-# My project output screenshots
+!\[MY IMAGE](IMG1.png)!\[MY IMAGE](IMG2.png)!\[MY IMAGE](IMG3.png)!\[My IMAGE](IMG4.png)
 
-![Image 1] (Image1.png)
-![Image 2] (Image2.png)
-![Image 3] (Image3.png)
